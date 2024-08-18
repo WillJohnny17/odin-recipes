@@ -1,26 +1,18 @@
 
 h1 {text-align: center;
-    color: blue;
+    color: black;
     font-family: "Times New Roman", serif;
     font-weight: bold;
-    background-color: yellow; }
-
-
-.link {font-size: 30px;
-       font-weight: bold;
-       }
-
-.first.link {
-    display: block;
-    text-align: left;
-}
+    border: 2px solid black;
+    background-color: rgb(123, 199, 224) }
        
-.second.link {
-    display: block;
-    text-align: center;
-}
 
-.third.link {
-    display: block;
-    text-align: right;
-}
+div {
+    padding: 30px;
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 10px;
+     }
+
+
+
